@@ -1,4 +1,4 @@
-# owf-data-co-ditches #
+# owf-data-co-dwr-ditches #
 
 This repository contains the [Open Water Foundation (OWF)](https://openwaterfoundation.org)
 dataset files for Colorado ditch data, including service area boundaries.
@@ -29,7 +29,7 @@ C:\Users\user/                              Windows user files.
       git-repos/
 ---------------- above folders are recommended --------------------
         owf-website-data/                   Repository that provides shared files to create dataset cloud landing page.
-        owf-data-co-ditches/                This repository.
+        owf-data-co-dwr-ditches/            This repository.
           .gitattributes                    Git configuration file indicate repository configuration,
                                             in particular handling of line-ending and binary files.
           .gitignore                        Git configuration file to ignore files that should not be committed to the repository.
