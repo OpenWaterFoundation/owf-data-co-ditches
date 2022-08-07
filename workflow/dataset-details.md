@@ -11,11 +11,11 @@ for geographic areas that are typically used in analysis and visualizations.
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`co-dwr-ditches.geojson`](co-dwr-ditches.geojson) | Colorado stream reaches (entire state). |
-| [`co-dwr-ditches-division2.geojson`](co-dwr-ditches-division2.geojson) | Colorado stream reaches (Division 2, Arkansas). |
-| [`co-dwr-ditches-division4.geojson`](co-dwr-ditches-division4.geojson) | Colorado stream reaches (Division 4, Gunnison). |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`co-dwr-ditches.geojson`](co-dwr-ditches.geojson) | Colorado ditches (entire state). | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/dwr/ditches/co-dwr-ditches.geojson) |
+| [`co-dwr-ditches-division2.geojson`](co-dwr-ditches-division2.geojson) | Colorado ditches for Division 2 (Arkansas). | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/dwr/ditches/co-dwr-ditches-division2.geojson) |
+| [`co-dwr-ditches-division4.geojson`](co-dwr-ditches-division4.geojson) | Colorado ditches for Division 4 (Gunnison). | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/dwr/ditches/co-dwr-ditches-division4.geojson) |
 
 ## Workflow ##
 
